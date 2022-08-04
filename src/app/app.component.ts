@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'hello_angular';
+  movies = [{title:'filme1', desc:'desc1'},{title:'filme2', desc:'desc2'}];
 }
